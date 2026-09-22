@@ -1,5 +1,4 @@
 # 💫 About Me:
-# qasim gay
 
 <br>Hi, I'm Ronak Rawal, an aspiring AI Engineer and BTech AI/ML student passionate about Artificial Intelligence, Generative AI, and Python development. I have completed certifications in AI, Prompt Engineering, Python Fundamentals, Robotic Process Automation, and Web Development. Currently, I am building practical AI projects and continuously improving my skills in machine learning, AI assistants, and software development.<br>
 
